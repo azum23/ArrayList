@@ -1,0 +1,6 @@
+D:\Projects\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+D:\Projects\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe
+D:\Projects\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.pdb
+D:\Projects\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csprojResolveAssemblyReference.cache
+D:\Projects\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.exe
+D:\Projects\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.pdb
